@@ -62,7 +62,7 @@ export function Hero() {
               <Button
                 variant="outline"
                 size="lg"
-                className="border-white/30 text-white hover:bg-white/10 backdrop-blur-sm"
+                className="border-white/30 text-white hover:bg-white/10 backdrop-blur-sm bg-transparent"
                 asChild
               >
                 <a
@@ -76,7 +76,7 @@ export function Hero() {
               <Button
                 variant="outline"
                 size="lg"
-                className="border-white/30 text-white hover:bg-white/10 backdrop-blur-sm"
+                className="border-white/30 text-white hover:bg-white/10 backdrop-blur-sm bg-transparent"
               >
                 <Download className="h-5 w-5" />
                 <span className="ml-2">Resume</span>

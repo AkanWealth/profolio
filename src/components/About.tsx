@@ -18,11 +18,11 @@ export function About() {
           {/* Profile Image */}
           <div className="flex justify-center md:justify-start">
             <div className="relative">
-              <div className="w-80 h-80 rounded-2xl overflow-hidden shadow-glow border-4 border-primary/20">
+              <div className="w-80 h-80 rounded-2xl overflow-hidden shadow-glow border-2 border-primary/20">
                 <img
                   src={profilePlaceholder}
                   alt="Asanga Akan - Software Developer"
-                  className="w-full h-full object-cover"
+                  className=""
                 />
               </div>
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-hero-gradient rounded-full flex items-center justify-center shadow-glow">
