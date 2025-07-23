@@ -46,7 +46,7 @@ export function About() {
             <div className="grid grid-cols-2 gap-4">
               <Card className="bg-skill-badge border-border/50 shadow-elegant">
                 <CardContent className="p-6 text-center">
-                  <div className="text-3xl font-bold text-primary mb-2">6+</div>
+                  <div className="text-3xl font-bold text-primary mb-2">8+</div>
                   <div className="text-sm text-muted-foreground">Years Experience</div>
                 </CardContent>
               </Card>
